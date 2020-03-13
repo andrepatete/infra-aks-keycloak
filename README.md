@@ -1,6 +1,6 @@
 
 
-# Cluster Deploymente.
+# Cluster Deployment.
 
 
 ##### Cluster creation steps and initial settings at ./1-create_cluste_prod.sh.
