@@ -1,15 +1,15 @@
 
-###### Cluster creation steps and initial settings at ./1-create_cluste_prod.sh.
-###### Note: Run the commands step by step, the script is not yet ready to run at once.
-###### These steps are only for installing the cluster.
 
-###### Steps to create the volume to be used (Azure File share) ./2-create_azure_fileshare_volumes.sh.
-###### Note: Run the commands step by step, the script is not yet ready to run at once.
-###### These steps are only for installing the cluster.
+# Cluster Deploymente.
 
-###### Steps to deploy the application (KEycloak) via Helm ./3-deploy_application.sh.
-###### Note: Run the commands step by step, the script is not yet ready to run at once.
-###### These steps are only for installing the cluster.
+
+##### Cluster creation steps and initial settings at ./1-create_cluste_prod.sh.
+##### Steps to create the volume to be used (Azure File share) ./2-create_azure_fileshare_volumes.sh.
+##### Steps to deploy the application (KEycloak) via Helm ./3-deploy_application.sh.
+##### Note: Run the commands step by step, the scripts are not yet ready to be executed at once.
+##### These steps are only for installing the cluster.
+
+
 
 
 
